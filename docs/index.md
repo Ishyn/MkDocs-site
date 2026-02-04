@@ -1,12 +1,5 @@
 # Welcome to my page!
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-For full documentation visit
-For full documentation visit
-For full documentation visit
-For full documentation visit
-For full documentation visit
-For full documentation visit
-For full documentation visit
 
 ## Commands
 
@@ -19,5 +12,6 @@ For full documentation visit
 
     mkdocs.yml    # The configuration file.
     docs/
-        index.md      # Homepage.
-        Portfolio.md  # Portfolio page.
+        index.md      # Homepage
+        Portfolio.md  # Portfolio page
+        About.md      # About page
