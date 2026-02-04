@@ -1,3 +1,2 @@
 mkdocs-material>=9.5.0
 pymdown-extensions>=10.7
-mkdocs-blog-plugin>=0.46
