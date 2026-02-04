@@ -1,6 +1,12 @@
-# Welcome to MkDocs
-
+# Welcome to my page!
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+For full documentation visit
+For full documentation visit
+For full documentation visit
+For full documentation visit
+For full documentation visit
+For full documentation visit
+For full documentation visit
 
 ## Commands
 
@@ -13,5 +19,5 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
     mkdocs.yml    # The configuration file.
     docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+        index.md      # Homepage.
+        Portfolio.md  # Portfolio page.
