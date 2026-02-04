@@ -10,8 +10,8 @@
 !!! info "Професійний профіль"
 
     *   **20+ років** досвіду в IT на інженерно-технічних посадах.
-    *   Експертиза в підтримці *200+ користувачів** та розгортанні критичних IT-сервісів.
-    *   Глибокі знання мережевої інфраструктури, системного ПЗ та баз даних.
+    *   Експертиза в підтримці **200+ користувачів** та розгортанні критичних IT-сервісів.
+    *   Глибокі знання мережевой інфраструктури, системного ПЗ та баз даних.
     *   Перехід у **QA Manual** з потужним технічним бекендом.
 
 *   :material-translate: **Англійська:** B1 (Upper-Intermediate terminology)
@@ -21,14 +21,12 @@
 
 ### :material-tools: ТЕХНІЧНІ НАВИЧКИ
 
-
-
 !!! abstract "ОС та Віртуалізація"
 
     *   :material-microsoft-windows: Windows / Windows Server
-    *   :material-linux: Linux, Ubuntu, Debian, CentOS
+    *   :material-linux: Linux (Ubuntu, Debian, CentOS)
     *   :material-docker: Docker, :material-kubernetes: Kubernetes
-    *   :material-server: VirtualBox,VMware, Hyper-V, Proxmox
+    *   :material-server: VirtualBox, VMware, Hyper-V, Proxmox
 
 !!! abstract "Бази даних"
 
@@ -42,9 +40,9 @@
 
 !!! abstract "Розробка"
 
-    *   :material-language-python: Python (scripts)        
+    *   :material-language-python: Python (scripts)
     *   :material-language-html5: HTML, CSS, JavaScript
-    *   :material-github: Git / GitLab /GitHub 
+    *   :material-github: Git / GitLab / GitHub
 
 !!! abstract "Автоматизація"
 
@@ -53,52 +51,51 @@
 
 !!! abstract "Тестування (QA)"
 
-    **   :material-check-decagram: Test Design (Theory)
-    **   :material-google-chrome: Chrome DevTools
-    **   :material-clipboard-check: TestRail, Postman, Swagger
+    *   :material-check-decagram: Test Design (Theory)
+    *   :material-google-chrome: Chrome DevTools
+    *   :material-clipboard-check: TestRail, Postman, Swagger
 
 !!! abstract "Моніторинг"
 
-    **   :material-chart-line: PRTG,Zabbix, Grafana, Prometheus, ELK 
-
+    *   :material-chart-line: PRTG, Zabbix, Grafana, Prometheus, ELK
 
 ---
 
 ### :material-briefcase: ДОСВІД РОБОТИ
 
 ??? info "НГУ – ВІЙСЬКОВОСЛУЖБОВЕЦЬ (2023 — 2025)"
-    **Посада:** Солдат (зв’язок, телекомунікаційні технології)
-
+    **Підрозділ:** Зв’язок, телекомунікаційні технології
+    
     *травень 2023 – жовтень 2025*
 
 ??? info "ТОВ «Оператор ГТС України» — ПРОВІДНИЙ ІНЖЕНЕР (2019 — 2023)"
     **Філія:** Служба автоматизації Олександрівського промислового майданчика
-
+    
     *липень 2019 – травень 2023*
-
+    
     **Ключові досягнення:**
     *   **Підтримка 100+ користувачів.**
-    *   **Участь в підтримці 5+ ключових IT сервісів компанії**
+    *   **Участь в підтримці 5+ ключових IT-сервісів компанії.**
     *   **Керування парком техніки:** 50+ корпоративних ПК, 15+ технологічних ПК, 20+ одиниць мережевого обладнання.
     *   **Вирішення 1000+ заявок:** Успішно опрацьовано через систему I-Top за 3 роки.
     *   **Документація:** Ведення CMDB, проектної та виробничої документації.
-
+    
     **Технології:** `AD` `SAP` `VPN` `I-Top` `Hardware Support` { .badge-outline }
 
 ??? info "АТ «УКРТРАНСГАЗ» — КЕРІВНИК ГРУПИ ІТ (2012 — 2014)"
     **Філія:** "УКРГАЗТЕХЗВ'ЯЗОК"
-
+    
     *серпень 2012 – жовтень 2014*
-
+    
     *   Участь у масштабній трансформації IT-структури компанії.
     *   Впровадження SAP R/3 (адміністрування користувачів, права доступу).
-    *   Супровід корпоративної IP-телефонії та мереж.
+    *   Супровід корпоративної IP-телефонии та мереж.
 
 ---
 
 ### :material-school: ОСВІТА ТА КУРСИ
 
-*   **Кіровоградський державний техничний університет** (1994 – 1999)
+*   **Кіровоградський державний технічний университет** (1994 – 1999)
     :   Інженер-програміст, «Системне програмування».
 *   **GetEd** (2022)
     :   **Курс GET MANUAL QA** (Тестувальник ПЗ) — *Професійна сертифікація*.
