@@ -1,31 +1,122 @@
-My Portfolio
-About me
+# Андрій Ішин { #top }
+**Manual QA** • **Customer Support Engineer** • **System Administrator** • **Network Engineer** • **DevOps Engineer**
 
-I am a software engineer with experience in developing and maintaining software applications. I am passionate about technology and constantly learning new things. I am a team player and enjoy working in a collaborative environment.
+[:material-file-download: Завантажити PDF версію](cv_ishyn.pdf){ .md-button .md-button--primary }
 
-Education
+---
 
-Bachelor of Science in Computer Science
-University of Technology, Sydney
-2018-2021
+### :material-account-circle: ГОЛОВНЕ
 
-Work Experience
+!!! info "Професійний профіль"
 
-Software Engineer
-Tech Solutions Pty Ltd
-2021-Present
+    *   **20+ років** досвіду в IT на інженерно-технічних посадах.
+    *   Експертиза в підтримці *200+ користувачів** та розгортанні критичних IT-сервісів.
+    *   Глибокі знання мережевої інфраструктури, системного ПЗ та баз даних.
+    *   Перехід у **QA Manual** з потужним технічним бекендом.
 
-Projects
+*   :material-translate: **Англійська:** B1 (Upper-Intermediate terminology)
+*   :material-human-greeting: **Soft Skills:** Спрямованість на результат, клієнт-орієнтована комунікація, аналітичне мислення.
 
-Portfolio Website
-Personal Project
-2022
+---
 
-Skills
+### :material-tools: ТЕХНІЧНІ НАВИЧКИ
 
-Programming Languages: Python, Java, C++, JavaScript
-Frameworks: React, Node.js, Django, Flask
-Tools: Git, Docker, Kubernetes, Jenkins
-Cloud Platforms: AWS, Azure, GCP
-Databases: MySQL, PostgreSQL, MongoDB
-Other: Agile, Scrum, Test-Driven Development
+
+
+!!! abstract "ОС та Віртуалізація"
+
+    *   :material-microsoft-windows: Windows / Windows Server
+    *   :material-linux: Linux, Ubuntu, Debian, CentOS
+    *   :material-docker: Docker, :material-kubernetes: Kubernetes
+    *   :material-server: VirtualBox,VMware, Hyper-V, Proxmox
+
+!!! abstract "Бази даних"
+
+    *   :material-database: MySQL, SQL, NoSQL
+    *   :material-database-search: DBeaver, phpMyAdmin
+
+!!! abstract "Мережі"
+
+    *   :material-lan: LAN/WAN, HTTP/S, UDP/TCP, FTP, DNS, DHCP, VPN
+    *   :material-router: Cisco, MikroTik, L3 Switches
+
+!!! abstract "Розробка"
+
+    *   :material-language-python: Python (scripts)        
+    *   :material-language-html5: HTML, CSS, JavaScript
+    *   :material-github: Git / GitLab /GitHub 
+
+!!! abstract "Автоматизація"
+
+    *   :material-robot: n8n
+    *   :material-auto-fix: AI tools інтеграція
+
+!!! abstract "Тестування (QA)"
+
+    **   :material-check-decagram: Test Design (Theory)
+    **   :material-google-chrome: Chrome DevTools
+    **   :material-clipboard-check: TestRail, Postman, Swagger
+
+!!! abstract "Моніторинг"
+
+    **   :material-chart-line: PRTG,Zabbix, Grafana, Prometheus, ELK 
+
+
+---
+
+### :material-briefcase: ДОСВІД РОБОТИ
+
+??? info "НГУ – ВІЙСЬКОВОСЛУЖБОВЕЦЬ (2023 — 2025)"
+    **Посада:** Солдат (зв’язок, телекомунікаційні технології)
+
+    *травень 2023 – жовтень 2025*
+
+??? info "ТОВ «Оператор ГТС України» — ПРОВІДНИЙ ІНЖЕНЕР (2019 — 2023)"
+    **Філія:** Служба автоматизації Олександрівського промислового майданчика
+
+    *липень 2019 – травень 2023*
+
+    **Ключові досягнення:**
+    *   **Підтримка 100+ користувачів.**
+    *   **Участь в підтримці 5+ ключових IT сервісів компанії**
+    *   **Керування парком техніки:** 50+ корпоративних ПК, 15+ технологічних ПК, 20+ одиниць мережевого обладнання.
+    *   **Вирішення 1000+ заявок:** Успішно опрацьовано через систему I-Top за 3 роки.
+    *   **Документація:** Ведення CMDB, проектної та виробничої документації.
+
+    **Технології:** `AD` `SAP` `VPN` `I-Top` `Hardware Support` { .badge-outline }
+
+??? info "АТ «УКРТРАНСГАЗ» — КЕРІВНИК ГРУПИ ІТ (2012 — 2014)"
+    **Філія:** "УКРГАЗТЕХЗВ'ЯЗОК"
+
+    *серпень 2012 – жовтень 2014*
+
+    *   Участь у масштабній трансформації IT-структури компанії.
+    *   Впровадження SAP R/3 (адміністрування користувачів, права доступу).
+    *   Супровід корпоративної IP-телефонії та мереж.
+
+---
+
+### :material-school: ОСВІТА ТА КУРСИ
+
+*   **Кіровоградський державний техничний університет** (1994 – 1999)
+    :   Інженер-програміст, «Системне програмування».
+*   **GetEd** (2022)
+    :   **Курс GET MANUAL QA** (Тестувальник ПЗ) — *Професійна сертифікація*.
+*   **Cisco Networking Academy** (2019)
+    :   Introduction to Cybersecurity.
+*   **IT Education Center, Київ** (2016)
+    :   Адміністрування Linux (Початковий рівень).
+
+---
+
+### :material-heart: ЗАХОПЛЕННЯ
+
+<span class="badge">Tennis</span> <span class="badge">Blockchain</span> <span class="badge">Crypto</span> <span class="badge">Finance</span> <span class="badge">Digital</span>
+
+---
+
+### :material-contacts: ЗВОРОТНІЙ ЗВ'ЯЗОК
+
+*   :fontawesome-brands-telegram: **Telegram:** [@atarians](https://t.me/atarians)
+*   :material-email: **Email:** [ishynand@gmail.com](mailto:ishynand@gmail.com)
+*   :fontawesome-brands-linkedin: **LinkedIn:** [Andrii Ishyn](https://www.linkedin.com/in/andrii-ishyn/)

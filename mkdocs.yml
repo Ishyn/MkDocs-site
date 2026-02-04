@@ -1,4 +1,62 @@
-site_name: Portfolio
+site_name: IshynPage
+site_description: Blog set up following the tutorial
+site_url: https://ishyn.github.io/mkdocs-site
+
+nav:
+  - Home: index.md
+  - Blog: blog/index.md
+  - Portfolio: portfolio.md
+  - About: about.md
+
 theme:
   name: material
-site_url: https://Ishyn.github.io/MkDocs-site
+  language: uk
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+    - content.code.annotate
+
+markdown_extensions:
+  - attr_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.magiclink
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.tabbed:
+      alternate_style: true
+
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/atarians
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/andrii-ishyn/
+    - icon: fontawesome/solid/envelope
+      link: mailto:ishynand@gmail.com
+
+plugins:
+  - search
+  - blog
