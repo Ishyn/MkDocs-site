@@ -1,0 +1,74 @@
+/* Custom styles for portfolio */
+
+/* Badges for skills and technologies */
+.badge {
+    background-color: var(--md-primary-fg-color);
+    color: var(--md-primary-bg-color);
+    padding: 2px 8px;
+    border-radius: 10px;
+    font-size: 0.7rem;
+    font-weight: bold;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 2px;
+}
+
+.badge-outline {
+    border: 1px solid var(--md-primary-fg-color);
+    color: var(--md-primary-fg-color);
+    padding: 1px 7px;
+    border-radius: 10px;
+    font-size: 0.7rem;
+    font-weight: bold;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 2px;
+}
+
+/* Specific colors for some badges */
+.badge-tech { background-color: #2e7d32; } /* Green */
+.badge-soft { background-color: #1565c0; } /* Blue */
+.badge-qa { background-color: #e65100; }   /* Orange */
+
+/* Career timeline adjustments */
+.career-entry {
+    margin-bottom: 2rem;
+    padding-left: 1rem;
+    border-left: 2px solid var(--md-primary-fg-color);
+}
+
+.career-date {
+    font-style: italic;
+    color: var(--md-default-fg-color--light);
+    font-size: 0.9rem;
+}
+
+/* Portfolio grid for skills */
+.skills-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+.skill-card {
+    border: 1px solid var(--md-default-fg-color--lightest);
+    border-radius: 8px;
+    padding: 1rem;
+    background-color: var(--md-default-bg-color);
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.skill-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+}
+
+.skill-card h4 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    color: var(--md-primary-fg-color);
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
